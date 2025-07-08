@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "‎May25_Headshot_RyanSeely.png"
+  avatar           : "‎ryan_headshot.png"
   name             : "Ryan Seely"
   pronouns         : "he/him"  
   bio              : "Economics & Statistics Student, Research Assistant"
